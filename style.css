@@ -1,0 +1,27 @@
+body {
+    background: rgb(25,23,59);
+    background: linear-gradient(0deg, rgba(25,23,59,1) 0%, rgba(28,28,201,1) 6%, rgba(0,212,255,1) 100%);
+}
+
+.foto1{
+    width: 900px;
+    margin-left: 301.5px;
+    /* position: absolute;
+        left: 50%;
+        top: 50%;
+        transform: translate(-50%,-50%); */
+    display: inline-block;
+}
+.foto1>img{
+    position: relative;
+    float: left;
+}
+.foto2{
+    width: 804px;
+    margin-left: 351.5px;
+    margin-bottom: 30px;
+}
+hr{
+    border: 2px dashed black;
+
+}
